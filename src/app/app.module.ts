@@ -24,7 +24,8 @@ import { CartService } from './cart.service';
     TopBarComponent,
     ProductListComponent,
     ProductAlertsComponent,
-    ProductDetailsComponent
+    ProductDetailsComponent,
+    CartService
   ],
   bootstrap: [AppComponent],
   providers: [CartService]
